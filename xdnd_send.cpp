@@ -1,4 +1,4 @@
-#copyright "Kolobov Aleksei @kilax9276"
+//copyright "Kolobov Aleksei @kilax9276"
 #include <X11/Xlib.h>
 #include <X11/Xatom.h>
 #include <X11/Xutil.h>
