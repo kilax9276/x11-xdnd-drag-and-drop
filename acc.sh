@@ -1,0 +1,1 @@
+./xdnd_send 1000 640 ./test.py ./test.png
